@@ -1,0 +1,6 @@
+OpenScratchBot
+
+In order to run this program, you must have the following environment variables set in your shell:
+- OSB_STUDIO should be set to the studio ID you want to read from.
+- OSB_EMAIL should be set to the email on your HuggingFace account.
+- OSB_PASSWD should be set to the password on your HuggingFace account.
